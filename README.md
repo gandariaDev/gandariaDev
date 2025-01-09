@@ -40,9 +40,9 @@ We love contributions from our community! Whether you're fixing bugs, adding new
 
 ## 📊 Organization Stats
 
-![GitHub Organization Stats](https://img.shields.io/github/stars/ORGANIZATION_NAME?style=social)
-![GitHub Contributors](https://img.shields.io/github/contributors/ORGANIZATION_NAME/REPO_NAME)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/ORGANIZATION_NAME/REPO_NAME)
+![GitHub Organization Stats](https://img.shields.io/github/stars/Gandaria-Ventures-Limited?style=social)
+![GitHub Contributors](https://img.shields.io/github/contributors/Gandaria-Ventures-Limited/REPO_NAME)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Gandaria-Ventures-Limited/REPO_NAME)
 
 ## 🎯 Our Technology Stack
 
